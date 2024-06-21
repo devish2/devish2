@@ -1,15 +1,31 @@
 <h1 align="center">Hola 👋, I'm Devesh</h1>
 
-#Here is I'm working on: 
+### Here is what I'm working on: 
 
-- 🔭 I’m currently working on Google Maps Platform
-- 🌱 I’m currently learning Google Cloud Platform
-- 👯 I’m looking to collaborate on ... Google Cloud Platfrom
-- 🤔 I’m looking for help with ... Product Managment
-- 💬 Ask me about: Google Cloud, Google Maps, APIs, Android or any-tech stuffs
+I'm a passionate IT professional with over 8 years of experience, currently leading MealOBox, a tiffin service platform that connects customers with local vendors for convenient, reliable, and quality homemade meals. I'm a strong advocate for sustainable food systems and support local communities through MealOBox.
+
+**Beyond MealOBox, I'm actively involved in the tech industry as:**
+
+- Google Cloud Platform Learner (I'm always expanding my knowledge!)
+- Scaler Mentor (Helping aspiring IT professionals navigate challenges and achieve goals)
+- GLG Expert (Sharing my knowledge and insights to connect clients with the right solutions)
+
+### Technical Skills
+- Cloud Security
+- Google Maps Platform (Expertise)
+- Cloud Technologies
+
+### Interests
+- Google Cloud Platform
+- Google Maps APIs
+- Android Development
+
+Discussing all things tech!
+I'm always happy to chat about GCP, Maps, APIs, Android, or any other techie topic. Feel free to reach out!
+
 - 📫 How to reach me: [Twitter](https://www.twitter.com/devish2) [Linkedin](http://www.linkedin.com/in/devish2) [Medium](devish2.medium.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I spend almost 6 hours listening to songs every day and working on new stuffs. 
+- ⚡ Fun fact: I spend almost 6 hours listening to songs every day and working on new stuff. 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devish2&label=Profile%20views&color=0e75b6&style=flat" alt="devish2" /> </p>
