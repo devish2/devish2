@@ -125,7 +125,6 @@ I actively mentor engineers at all career stages across multiple platforms:
 | Channel | Content |
 |--------|---------|
 | 🎒 [Walk Along Devesh](https://youtube.com) | Travel & food exploration across India |
-| 🍳 [Khana Khayenge](https://youtube.com) | Home cooking content by my mom |
 
 ---
 
